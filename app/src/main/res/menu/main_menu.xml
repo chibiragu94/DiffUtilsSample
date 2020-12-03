@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_item"
+        android:title="add new item"
+        app:showAsAction="withText" />
+    <item android:id="@+id/update_items"
+        android:title="Update with zero"
+        app:showAsAction="withText" />
+    <item android:id="@+id/swap_items"
+        android:title="swap items"
+        app:showAsAction="withText" />
+    <item android:id="@+id/paginate_items"
+        android:title="Paginate items"
+        app:showAsAction="withText" />
+</menu>

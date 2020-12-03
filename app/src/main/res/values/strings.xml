@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiffUtilsSample</string>
+    <string name="single_item">Add</string>
+    <string name="pagination_items">Paginate</string>
+    <string name="swap_items">Swap</string>
+    <string name="update_5_items">Update</string>
+</resources>
